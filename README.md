@@ -1,2 +1,3 @@
 # hello-world
-tradition
+
+This is just a simple test.
